@@ -1,0 +1,1 @@
+INSERT INTO catalogs VALUES (2, "Память");

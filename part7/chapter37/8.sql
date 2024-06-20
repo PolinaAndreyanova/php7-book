@@ -1,0 +1,1 @@
+INSERT IGNORE INTO catalogs VALUES (1, 'Видеоадаптеры');
